@@ -8,3 +8,4 @@ crewai
 langchain
 langchain-openai
 langchain-community
+crewai.tools
